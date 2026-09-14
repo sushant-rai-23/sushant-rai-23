@@ -1,16 +1,18 @@
-## Hi there 👋
+# Sushant Kumar Rai
 
-<!--
-**sushant-rai-23/sushant-rai-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in Delhi, ~5 years experience.
 
-Here are some ideas to get you started:
+Previously SDE-2 at Atlassian — iOS on Jira and Opsgenie, then backend
+on site-to-site data migration. Currently building **Scene ON**
+([sceneon.in](https://sceneon.in)), a consumer social platform I took
+from zero to live on both app stores solo: React Native client, Kotlin
+and Spring Boot backend, AWS infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Working in:** Swift, Kotlin, Java, Python, TypeScript
+**Currently going deeper on:** LLM systems, agents, retrieval
+
+Most of my work lives in private repos. Public projects go up here as
+I build them.
+
+[LinkedIn](https://linkedin.com/in/sushant23) ·
+sushantkumarrai.work@gmail.com
